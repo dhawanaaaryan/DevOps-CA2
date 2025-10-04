@@ -96,7 +96,7 @@ NODE_ENV=development
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Abhishek-2502/BusinessLens.git
+git clone https://github.com/dhawanaaaryan/BusinessLens.git
 cd businesslens
 ```
 
